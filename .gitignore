@@ -1,2 +1,4 @@
 /.vscode/
 *.aux
+*.synctex.gz
+*.log
